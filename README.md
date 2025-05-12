@@ -7,4 +7,16 @@
 4. [CloudWatch Logging and Testing Backup Process](#cloudwatch-logging-and-testing-backup-process)
 
 
-## 
+## Configuring IAM Role-Based Access
+
+
+
+## Setting up EC2, AWS CLI and CloudWatch Agent
+
+
+
+## Creating S3 Bucket and Scripting the Backup Process
+
+
+
+## CloudWatch Logging and Testing Backup Process
