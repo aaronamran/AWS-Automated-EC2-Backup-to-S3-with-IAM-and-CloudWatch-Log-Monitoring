@@ -188,7 +188,7 @@ This project showcases a cloud-based automated backup and monitoring solution us
 
 
 - Now the cron job will backup data every hour
-
+- After the project is completed, do not forget to terminate the created EC2 instance, S3 Bucket and CloudWatch Log Group
   
 
 
