@@ -1,5 +1,6 @@
 # AWS Automated EC2 Backup to S3 with IAM and CloudWatch Log Monitoring
 
+This project showcases a cloud-based automated backup and monitoring solution using Amazon Web Services (AWS). An EC2 instance is configured to back up specific directories to an Amazon S3 bucket at scheduled intervals using a custom shell script and cron. The project incorporates proper Identity and Access Management (IAM) by creating and attaching a role with the least privilege policy to securely allow S3 access from the EC2 instance. To ensure visibility into backup operations, the Amazon CloudWatch Agent is installed to collect logs, which are then pushed to CloudWatch Logs for real-time monitoring and troubleshooting. This hands-on setup demonstrates core principles of cloud infrastructure management including automation, secure access control, and observability, aligned with production-grade operational practices.
 
 ![aws_automated_ec2_backup_to_s3_with_iam_and_cloudwatch](https://github.com/user-attachments/assets/3b1f85c0-632e-4419-81d3-f2ceca73016e)
 
