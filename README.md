@@ -1,4 +1,7 @@
-# Automated EC2 Backup to S3 with IAM and CloudWatch Log Monitoring
+# AWS Automated EC2 Backup to S3 with IAM and CloudWatch Log Monitoring
+
+
+![aws_automated_ec2_backup_to_s3_with_iam_and_cloudwatch](https://github.com/user-attachments/assets/3b1f85c0-632e-4419-81d3-f2ceca73016e)
 
 
 1. [Configuring IAM Role-Based Access](#configuring-iam-role-based-access)
